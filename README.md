@@ -3,17 +3,17 @@
 - I'm aiming to become a full-stack engineer with a focus on backend development, while also handling frontend.<br>
 
 <p float="left">
-  <img width="50%" height="204px" src="https://github-stats-extended.vercel.app/api/top-langs?username=Takuya0202&theme=vue-dark&layout=compact&hide=blade"></img>
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Takuya0202&show_icons=true&theme=vue-dark"></img>
+  <img width="50%" height="204px" src="https://github-stats-extended.vercel.app/api/top-langs?username=am3thyzt&theme=vue-dark&layout=compact&hide=blade"></img>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=am3thyzt&show_icons=true&theme=vue-dark"></img>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Takuya0202/Takuya0202/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/am3thyzt/am3thyzt/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Takuya0202/Takuya0202/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/am3thyzt/am3thyzt/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation"
-    src="https://raw.githubusercontent.com/Takuya0202/Takuya0202/output/github-contribution-grid-snake.svg" />
+    src="https://raw.githubusercontent.com/am3thyzt/am3thyzt/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!-- ## main product 😎😎😎
@@ -23,9 +23,9 @@
 従来の飲食店検索アプリにあるカード形式の一覧表示や複雑な店舗情報を廃止し、<br>
 メニュー中心にアプローチし、直感的に店舗の魅力を伝え、フリック操作で飲食店を発見できるwebアプリケーションです<br>
 
-ソースコード：<a href="https://github.com/Takuya0202/foodsnap-app">こちらをクリック</a><br>
+ソースコード：<a href="https://github.com/am3thyzt/foodsnap-app">こちらをクリック</a><br>
 
-ドキュメント：<a href="https://github.com/Takuya0202/foodsnap">こちらをクリック</a><br>
+ドキュメント：<a href="https://github.com/am3thyzt/foodsnap">こちらをクリック</a><br>
 
 #### ユーザー画面
 <a href="https://www.foodsnap.org/">こちらをクリック</a><br>
@@ -44,7 +44,7 @@
 チームリーダーを担当しました<br>
 
 #### 制作物url
-ソースコード ：　<a href="https://github.com/Takuya0202/vantan-project-f-team">こちらをクリック</a><br>
+ソースコード ：　<a href="https://github.com/am3thyzt/vantan-project-f-team">こちらをクリック</a><br>
 
 アプリURL : <a href="https://b-map-tan.vercel.app">こちらをクリック</a><br>
 
@@ -55,8 +55,8 @@ laravelとreactを使って5日間ほどで製作しました。<br>
 無料枠では内部のaiのリクエスト回数が少ないので、失敗する恐れあり、毎日の早い者勝ち<br>
 
 #### 製作物Url
-[バックエンド](https://github.com/Takuya0202/readme-generator-api)<br>
-[フロントエンド](https://github.com/Takuya0202/readme-generator)<br>
+[バックエンド](https://github.com/am3thyzt/readme-generator-api)<br>
+[フロントエンド](https://github.com/am3thyzt/readme-generator)<br>
 [製作物url *サーバー停止する場合あり。](https://readme-generator-4wk.pages.dev/login)<br>
  -->
 
@@ -138,34 +138,34 @@ laravelとreactを使って5日間ほどで製作しました。<br>
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Takuya0202/make_pc" target="_blank"><strong>Make Pc</strong></a>
+      <a href="https://github.com/am3thyzt/make_pc" target="_blank"><strong>Make Pc</strong></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Takuya0202/tintiro_rpg" target="_blank"><strong>チンチロRPG</strong></a>
+      <a href="https://github.com/am3thyzt/tintiro_rpg" target="_blank"><strong>チンチロRPG</strong></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Takuya0202/make_pc/main/readme-images/app/parts/index.png" alt="Make Pc" width="100%"/>
+      <img src="https://raw.githubusercontent.com/am3thyzt/make_pc/main/readme-images/app/parts/index.png" alt="Make Pc" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Takuya0202/tintiro_rpg/main/readme-images/hard.png" alt="チンチロRPG" width="100%"/>
+      <img src="https://raw.githubusercontent.com/am3thyzt/tintiro_rpg/main/readme-images/hard.png" alt="チンチロRPG" width="100%"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Takuya0202/Takuya0202.github.io" target="_blank"><strong>Portfolio</strong></a>
+      <a href="https://github.com/am3thyzt/Takuya0202.github.io" target="_blank"><strong>Portfolio</strong></a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Takuya0202/foodsnap" target="_blank"><strong>FoodSnap</strong></a>
+      <a href="https://github.com/am3thyzt/foodsnap" target="_blank"><strong>FoodSnap</strong></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Takuya0202/Takuya0202.github.io/main/preview.png" alt="Make Pc" width="100%"/>
+      <img src="https://raw.githubusercontent.com/am3thyzt/Takuya0202.github.io/main/preview.png" alt="Make Pc" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Takuya0202/foodsnap/main/readme-images/top1.png" alt="Foodsnap" width="100%"/>
+      <img src="https://raw.githubusercontent.com/am3thyzt/foodsnap/main/readme-images/top1.png" alt="Foodsnap" width="100%"/>
     </td>
   </tr>
 </table>
@@ -174,31 +174,31 @@ laravelとreactを使って5日間ほどで製作しました。<br>
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Takuya0202/meshiltupara" target="_blank"><strong>めしっぱら</strong></a>
+      <a href="https://github.com/am3thyzt/meshiltupara" target="_blank"><strong>めしっぱら</strong></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Takuya0202/vantan-project-f-team" target="_blank"><strong>b-map</strong></a>
+      <a href="https://github.com/am3thyzt/vantan-project-f-team" target="_blank"><strong>b-map</strong></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Takuya0202/meshiltupara/main/readme-images/top.png" alt="めしっぱら" width="100%"/>
+      <img src="https://raw.githubusercontent.com/am3thyzt/meshiltupara/main/readme-images/top.png" alt="めしっぱら" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Takuya0202/vantan-project-f-team/main/readme-images/top1.png" alt="b-map" width="100%"/>
+      <img src="https://raw.githubusercontent.com/am3thyzt/vantan-project-f-team/main/readme-images/top1.png" alt="b-map" width="100%"/>
     </td>
   </tr>
     <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Takuya0202/Deravel" target="_blank"><strong>Deravel</strong></a>
+      <a href="https://github.com/am3thyzt/Deravel" target="_blank"><strong>Deravel</strong></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Takuya0202/readme-generator" target="_blank"><strong>Readme-generator</strong></a>
+      <a href="https://github.com/am3thyzt/readme-generator" target="_blank"><strong>Readme-generator</strong></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Takuya0202/Deravel/local-config/readme-images/top-page-1.png" alt="Deravel" width="100%"/>
+      <img src="https://raw.githubusercontent.com/am3thyzt/Deravel/local-config/readme-images/top-page-1.png" alt="Deravel" width="100%"/>
     </td>
     <td align="center">
     </td>
@@ -208,4 +208,4 @@ laravelとreactを使って5日間ほどで製作しました。<br>
 
 ## link
 - 📝 [Zenn](https://zenn.dev/amethyst)
--  📌[portfolio](https://takuya0202.github.io/)
+-  📌[portfolio](https://am3thyzt.github.io/Takuya0202.github.io/)
